@@ -1,0 +1,31 @@
+body{
+    background: #99d6ff;
+    color: #998B7B;
+    font-weight: 600;
+    
+}
+
+.heading{
+    font-size: 25px;
+    width: 80%;
+    font-style: oblique;
+    color: #998B7B;
+    border-radius: 30px;
+}
+
+#camera {
+    border-radius: 5px;
+    border-color: white;
+    border-width: 3px;
+    border-style: double;
+    height: 300px;
+    width: 350px;
+}
+
+.name_of_objects {
+    color:#998B7B;
+}
+
+#result_object_name, #result_object_accuracy{
+color: white;
+}
